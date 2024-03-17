@@ -1,6 +1,5 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
-import Layout from "@theme/Layout";
 import styles from './styles.module.css';
 
 import React, { useState, useEffect } from 'react';

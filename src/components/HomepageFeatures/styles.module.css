@@ -28,9 +28,8 @@
   font-size: 34px;
 }
 
-
 .fadeIn {
-  animation: fadeInAnimation 1s ease-in-out forwards;
+  animation: fadeInAnimation 1.3s ease-in-out forwards;
 }
 
 @keyframes fadeInAnimation {
@@ -39,11 +38,10 @@
 }
 
 .fadeInParagraph {
-  animation: fadeInParagraphAnimation 1s ease-in-out forwards;
+  animation: fadeInParagraphAnimation 1.3s ease-in-out forwards;
 }
 
 @keyframes fadeInParagraphAnimation {
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
 }
-
