@@ -41,6 +41,8 @@ const config: Config = {
           'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          blogTitle: 'The Happy Day Blog',
+          blogDescription: 'Chào các bạn, đây nơi tôi chia sẻ về hành trình lượm lặt những ngày hạnh phúc và những cách sống của cá nhân tôi. Có thể các góc nhìn này sẽ khác phần nào với các bạn, nên hãy cân nhắc trước khi xem.',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
